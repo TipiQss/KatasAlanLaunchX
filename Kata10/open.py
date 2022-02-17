@@ -1,5 +1,5 @@
 def main():
-    try:
-        configuration = open('config.txt')
-    except Exception:
-        print("Couldn't find the config.txt file!")
+    open("/path/to/mars.jpg")
+
+if __name__ == '__main__':
+    main()
